@@ -1,0 +1,18 @@
+﻿<Window x:Class="Project_Prn212.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Prn212"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid VerticalAlignment="Center">
+        <TextBlock Text="Fast Food Management System" FontSize="24"
+                   FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,340"/>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button Content="Manage Tables" Margin="15" Width="200" Height="50" Click="ManageTables_Click"/>
+            <Button Content="Manage Menu" Margin="15" Width="200" Height="50" Click="ManageMenu_Click"/>
+            <Button Content="Manage Orders" Margin="15" Width="200" Height="50" Click="ManageOrder_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

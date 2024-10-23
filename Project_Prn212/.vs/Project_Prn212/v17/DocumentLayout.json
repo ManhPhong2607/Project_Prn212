@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\Project_Prn212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\managemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\managemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\managetables.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\managetables.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\managetables.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\managetables.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\manageorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\manageorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|d:\\prn212\\project_prn212\\project_prn212\\models\\projectprn212context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D45085B-CDF9-4EA2-9262-04225292FB2F}|Project_Prn212\\Project_Prn212.csproj|solutionrelative:project_prn212\\models\\projectprn212context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageOrder.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageOrder.xaml",
+              "RelativeDocumentMoniker": "Project_Prn212\\ManageOrder.xaml",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageOrder.xaml",
+              "RelativeToolTip": "Project_Prn212\\ManageOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T19:16:13.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageMenu.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageMenu.xaml",
+              "RelativeDocumentMoniker": "Project_Prn212\\ManageMenu.xaml",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageMenu.xaml",
+              "RelativeToolTip": "Project_Prn212\\ManageMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T19:15:48.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageTables.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageTables.xaml",
+              "RelativeDocumentMoniker": "Project_Prn212\\ManageTables.xaml",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageTables.xaml",
+              "RelativeToolTip": "Project_Prn212\\ManageTables.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T19:14:07.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\App.xaml",
+              "RelativeDocumentMoniker": "Project_Prn212\\App.xaml",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\App.xaml",
+              "RelativeToolTip": "Project_Prn212\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T17:41:27.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Project_Prn212\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\MainWindow.xaml",
+              "RelativeToolTip": "Project_Prn212\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T09:17:34.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Prn212\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Project_Prn212\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:17:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\Login.xaml",
+              "RelativeDocumentMoniker": "Project_Prn212\\Login.xaml",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\Login.xaml",
+              "RelativeToolTip": "Project_Prn212\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T16:47:20.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageTables.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageTables.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Prn212\\ManageTables.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\ManageTables.xaml.cs",
+              "RelativeToolTip": "Project_Prn212\\ManageTables.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:20:15.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectPrn212Context.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\Models\\ProjectPrn212Context.cs",
+              "RelativeDocumentMoniker": "Project_Prn212\\Models\\ProjectPrn212Context.cs",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\Models\\ProjectPrn212Context.cs",
+              "RelativeToolTip": "Project_Prn212\\Models\\ProjectPrn212Context.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:35:28.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Project_Prn212\\Login.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Project_Prn212\\Project_Prn212\\Login.xaml.cs",
+              "RelativeToolTip": "Project_Prn212\\Login.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:07:25.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
