@@ -5,8 +5,111 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Project_Prn212"
         mc:Ignorable="d"
-        Title="ManageOrder" Height="450" Width="800">
+        WindowStartupLocation="CenterScreen"
+        Title="ManageOrder" Width="900" ResizeMode="NoResize">
     <Grid>
-        
+        <DockPanel VerticalAlignment="Top" Margin="10">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Background="LightBlue" Orientation="Vertical"
+                            HorizontalAlignment="Left" Width="400">
+                    <Label Name="lbOrderManager" Content="Order Manager"
+                           FontWeight="DemiBold" FontSize="20" Foreground="Red"/>
+
+                    <Label Name="lbOrderId" Content="Order Id"/>
+                    <TextBox Name="txtOrderId" HorizontalAlignment="Stretch"
+                             Height="25"
+                             Text="{Binding Path=OrderId, Mode=OneWay}"
+                             DataContext="{Binding ElementName=lvOrders,
+                             Path=SelectedItem}"/>
+
+                    <Label Name="lbCustomerId" Content="Customer Id"/>
+                    <TextBox Name="txtCustomerId" HorizontalAlignment="Stretch"
+                             Height="25"
+                             Text="{Binding Path=CustomerId, Mode=OneWay}"
+                             DataContext="{Binding ElementName=lvOrders,
+                             Path=SelectedItem}"/>
+
+                    <Label Name="lbTableId" Content="Table Id"/>
+                    <TextBox Name="txtTableId" HorizontalAlignment="Stretch"
+                             Height="25"
+                             Text="{Binding Path=TableId, Mode=OneWay}"
+                             DataContext="{Binding ElementName=lvOrders,
+                             Path=SelectedItem}"/>
+
+                    <Label Name="lbOrderDate" Content="Order Date"/>
+                    <DatePicker Name="dpOrderDate" HorizontalAlignment="Stretch"
+                                Height="25"
+                                SelectedDate="{Binding Path=OrderDate, Mode=OneWay}"
+                                DataContext="{Binding ElementName=lvOrders,
+                                Path=SelectedItem}"/>
+
+                    <Label Name="lbTotal" Content="Total"/>
+                    <TextBox Name="txtTotal" HorizontalAlignment="Stretch"
+                             Height="25"
+                             Text="{Binding Path=Total, Mode=OneWay}"
+                             DataContext="{Binding ElementName=lvOrders,
+                             Path=SelectedItem}"/>
+
+                    <Label Name="lbStatus" Content="Status"/>
+                    <TextBox Name="txtStatus" HorizontalAlignment="Stretch"
+                             Height="25"
+                             Text="{Binding Path=Status, Mode=OneWay}"
+                             DataContext="{Binding ElementName=lvOrders,
+                             Path=SelectedItem}"/>
+
+                    <Label Name="lbAccountId" Content="Account Id"/>
+                    <TextBox Name="txtAccountId" HorizontalAlignment="Stretch"
+                             Height="25"
+                             Text="{Binding Path=AccountId, Mode=OneWay}"
+                             DataContext="{Binding ElementName=lvOrders,
+                             Path=SelectedItem}"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Orientation="Horizontal"
+                            HorizontalAlignment="Left">
+                    <Button x:Name="btnLoad" Margin="10" Width="80" Content="Load" Click="btnLoad_Click"/>
+                    <Button x:Name="btnAdd" Margin="10" Width="80" Content="Add" Click="btnAdd_Click"/>
+                    <Button x:Name="btnUpdate" Margin="10" Width="80" Content="Update" Click="btnUpdate_Click"/>
+                    <Button x:Name="btnDelete" Margin="10" Width="80" Content="Delete" Click="btnDelete_Click"/>
+                </StackPanel>
+
+                <ListView Grid.Row="2" Name="lvOrders" Width="Auto" Height="Auto" MouseDoubleClick="lvOrders_MouseDoubleClick">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Order Id" Width="50"
+                                            DisplayMemberBinding="{Binding Path=OrderId}"/>
+                            <GridViewColumn Header="Customer Id" Width="50"
+                                            DisplayMemberBinding="{Binding Path=CustomerId}"/>
+                            <GridViewColumn Header="Customer Name" Width="100"
+                                            DisplayMemberBinding="{Binding Path=CustomerName}"/>
+                            <GridViewColumn Header="Table Id" Width="50"
+                                            DisplayMemberBinding="{Binding Path=TableId}"/>
+                            <GridViewColumn Header="Table Name" Width="100"
+                                            DisplayMemberBinding="{Binding Path=TableName}"/>
+                            <GridViewColumn Header="Order Date" Width="100"
+                                            DisplayMemberBinding="{Binding Path=OrderDate}"/>
+                            <GridViewColumn Header="Total" Width="100"
+                                            DisplayMemberBinding="{Binding Path=Total}"/>
+                            <GridViewColumn Header="Status" Width="100"
+                                            DisplayMemberBinding="{Binding Path=Status}"/>
+                            <GridViewColumn Header="AccountId" Width="80"
+                                            DisplayMemberBinding="{Binding Path=AccountId}"/>
+                            <GridViewColumn Header="UserName" Width="100"
+                                            DisplayMemberBinding="{Binding Path=UserName}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Button Grid.Row="3" x:Name="btnClose" Margin="10"
+                        HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                        Width="80" Content="Close" Click="btnClose_Click"/>
+            </Grid>
+        </DockPanel>
     </Grid>
 </Window>

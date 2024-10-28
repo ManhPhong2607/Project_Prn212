@@ -35,8 +35,8 @@ namespace Project_Prn212
 
         private void ManageOrder_Click(object sender, RoutedEventArgs e)
         {
-            ManageOrder ordersWindow = new ManageOrder();
-            ordersWindow.Show();
+            App app = (App)App.Current;
+            app.OpenWindow_Order();
         }
     }
 }
